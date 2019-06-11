@@ -1,4 +1,4 @@
-package com.javacodegeeks;
+package core;
 
 public class Main {
 

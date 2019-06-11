@@ -1,4 +1,4 @@
-package com;
+package core;
 
 public class Connector {
 
